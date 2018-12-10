@@ -1,0 +1,37 @@
+/*
+*Mia Casale 
+* Due Date 
+*Project Name and Description
+*/
+
+/* The Universal selector */
+
+* {margin: 0;
+padding: 0;
+}
+
+
+/* Body attributes here */
+
+body {
+border: thick dotted purple;
+padding: 0.5em;
+    margin: 1em;   
+}
+
+    main{
+        border: thin solid teal; 
+            padding: 1em;
+        margin: .5em 
+            
+    }   
+
+h1{ 
+border: thin dashed green;
+padding: 0.5em;
+margin: 0.5em}
+
+p{ 
+border: thin dashed yellow;
+padding: 0.5em;
+margin: 0.5em;}
